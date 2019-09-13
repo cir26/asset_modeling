@@ -1,1 +1,1 @@
-# financial_modeling
+# crypto_modeling
